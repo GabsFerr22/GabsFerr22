@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![LogoCompass](/Sprint_1/Git%20&%20Github/img/compassUOL.png)
+![LogoCompass](compassUOL.png)
   
 </div>
 
@@ -41,12 +41,12 @@ que estão associadas ao mesmo. Tambem possuo tecnico em Desenvolvimento de Sist
 
 # Contatos: :iphone:
 
-[![gmail](/Sprint_1/Git%20&%20Github/img/gmail.png)](jgabsprofissional@gmail.com)
-[![LinkedIn](/Sprint_1/Git%20&%20Github/img/linkedln.png)](https://www.linkedin.com/in/joao-gabriel-f-24343a270/)
+[![gmail](gmail.png)](jgabsprofissional@gmail.com)
+[![LinkedIn](linkedln.png)](https://www.linkedin.com/in/joao-gabriel-f-24343a270/)
 
 
 <div align="center">
   
-![Gif](/Sprint_1/Git%20&%20Github/img/gif.gif)
+![Gif](gif.gif)
 
 </div>
