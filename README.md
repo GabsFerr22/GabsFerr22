@@ -14,7 +14,7 @@
 Sou de Recife, Pernambuco, estudante da faculdade Uninassau - Graças, cursando atualmente Analise e 
 Desenvolvimento de sistemas, estou no terceiro periodo de cinco no total com previsão de termino 
 para 2025. No momento a minha primeira experiencia profissional que possuo foi com a empresa 
-Compass UOL onde trabalhei como Data Analyst utilizando a plataforma da AWS, mas não é minha 
+Compass UOL onde trabalhei como Data Analyst/Data Engineering utilizando a plataforma da AWS, mas não é minha 
 primeira experiencia com toda a metodologia utilizada profissionalmente já que estou engatado no programa Embarque digital que 
 me auxilia com a faculdade e faz com todo periodo trabalhemos para entregar um projeto para empresas
 que estão associadas ao mesmo. Tambem possuo tecnico em Desenvolvimento de Sistemas pela Escola tecnica Miguel Batista.
